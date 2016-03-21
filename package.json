@@ -1,0 +1,28 @@
+{
+  "name": "cat-clicker",
+  "version": "0.0.1",
+  "description": "Click through a multitude of cats",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnwelzel/cat-clicker.git"
+  },
+  "keywords": [
+    "vanillajs",
+    "poc",
+    "mvp",
+    "javascript"
+  ],
+  "author": "Jon Welzel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jnwelzel/cat-clicker/issues"
+  },
+  "homepage": "https://github.com/jnwelzel/cat-clicker#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
