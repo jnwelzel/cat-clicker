@@ -13,7 +13,10 @@ CatListItem.prototype._handleClick = function(){
 }
 
 CatListItem.prototype._render = function(templateName){
-  TemplateLoader.require(templateName)
+  TemplateLoader.require(templateName, this._populate.bind(this, templateName))
+}
+
+CatListItem.prototype._populate = function(templateName){
   var template = _.template($('#template_' + templateName).html())
 
   this.container.append(template({cat: this.cat}))
