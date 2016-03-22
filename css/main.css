@@ -1,0 +1,32 @@
+#titulo-bem-legal {
+  font-size: 38px;
+  color: red;
+  text-transform: uppercase;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.cat-list-item {
+  margin-bottom: 20px;
+}
+
+.cat-list-item .cat-name {
+  font-size: 30px;
+}
+
+#cat-viwer-container {
+  height: 600px;
+  background-position-x: 50%;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+#click-counter-container {
+  font-size: 30px;
+}
+
+.disabled {
+  pointer-events: none;
+}
