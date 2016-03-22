@@ -21,6 +21,7 @@
   background-position-x: 50%;
   background-repeat: no-repeat;
   background-size: 100%;
+  cursor: pointer;
 }
 
 #click-counter-container {
