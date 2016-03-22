@@ -6,7 +6,7 @@ $(function() {
     {
       id: 1,
       name: 'Grumpy cat',
-      imageUrl: 'http://i.telegraph.co.uk/multimedia/archive/03481/Grumpy_Cat__3481823b.jpg',
+      imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/3/36/Grumpy-Cat.jpg',
       clicks: 0
     },
     {

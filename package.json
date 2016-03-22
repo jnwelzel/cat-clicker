@@ -1,0 +1,25 @@
+{
+  "name": "cat-clicker",
+  "version": "0.0.2",
+  "description": "Cat clickin goodness",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnwelzel/cat-clicker.git"
+  },
+  "keywords": [
+    "javascript",
+    "event-driven",
+    "vanilla",
+    "js"
+  ],
+  "author": "Jon Welzel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jnwelzel/cat-clicker/issues"
+  },
+  "homepage": "https://github.com/jnwelzel/cat-clicker#readme"
+}
